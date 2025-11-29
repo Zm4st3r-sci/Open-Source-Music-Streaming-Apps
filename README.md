@@ -261,6 +261,7 @@ A clean, cross-platform offline music player.
 <summary><a href="https://github.com/clementine-player/Clementine">Clementine</a><summary>
 
 A  music library management software, offline music player.
+
 </details>
 
 ---
