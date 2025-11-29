@@ -194,7 +194,6 @@ A simple and visually appealing offline music player.
 A Material Expressive Design local music player.
 
 </details>
-<summary><a href="https://github.com/clementine-player/Clementine">Clementine</a><summary>
 ---
 
 # iOS Applications
@@ -258,7 +257,9 @@ Multi-source music client that aggregates YouTube, SoundCloud, Deezer, and Spoti
 A clean, cross-platform offline music player.
 
 </details>
-
+<summary><a href="https://github.com/clementine-player/Clementine">Clementine</a><summary>
+A  music library management software, offline music player.
+</details>
 ---
 
 # Web-Based Applications
