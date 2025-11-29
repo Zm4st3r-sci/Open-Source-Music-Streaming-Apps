@@ -194,7 +194,7 @@ A simple and visually appealing offline music player.
 A Material Expressive Design local music player.
 
 </details>
-
+<summary><a href="https://github.com/clementine-player/Clementine">Clementine</a><summary>
 ---
 
 # iOS Applications
