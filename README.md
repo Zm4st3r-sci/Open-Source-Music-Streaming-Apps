@@ -262,6 +262,7 @@ A clean, cross-platform offline music player.
 
 A  music library management software, offline music player.
 
+</details>
 
 ---
 
