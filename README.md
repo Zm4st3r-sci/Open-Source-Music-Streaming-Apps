@@ -255,11 +255,13 @@ Multi-source music client that aggregates YouTube, SoundCloud, Deezer, and Spoti
 <summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
 
 A clean, cross-platform offline music player.
-
 </details>
+
+<details>
 <summary><a href="https://github.com/clementine-player/Clementine">Clementine</a><summary>
 A  music library management software, offline music player.
 </details>
+
 ---
 
 # Web-Based Applications
